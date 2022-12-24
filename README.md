@@ -1,2 +1,1 @@
-# TinDog
-BootStrap Proj
+TinDog Starting Files
