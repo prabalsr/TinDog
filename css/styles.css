@@ -235,6 +235,16 @@ margin: 0% 1%;
         font-size: 2rem;
     }
     
+       .container-fluid{
+        padding: 3% 3% 10% 3%;
+    }
+
+    .nav-link{
+        font-size: 2rem;
+        font-weight: 400;
+    }
+    
+    
     
 }
 
